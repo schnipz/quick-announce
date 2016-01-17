@@ -1,0 +1,35 @@
+{
+  "name": "quick-announce",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-header": "^1.7.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^1.5.1",
+    "jshint-stylish": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schnipz/quick-announce.git"
+  },
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "angular",
+    "angularjs",
+    "umd",
+    "amd",
+    "commonjs"
+  ],
+  "author": "Mike Parsons",
+  "link": "mikeparsons.io",
+  "license": "MIT"
+}
